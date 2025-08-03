@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "reference": {
+    "id": "landing-page",
+    "name": "Landing Page",
+    "description": "",
+    "type": "artifact",
+    "subtype": "code",
+    "projects": [],
+    "created": "2025-08-03T04:54:27.346Z",
+    "modified": "2025-08-03T04:54:27.346Z"
+  }
+}
