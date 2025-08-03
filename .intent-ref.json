@@ -6,8 +6,16 @@
     "description": "",
     "type": "artifact",
     "subtype": "code",
-    "projects": [],
+    "projects": [
+      "default-project"
+    ],
     "created": "2025-08-03T04:54:27.346Z",
-    "modified": "2025-08-03T04:54:27.346Z"
+    "modified": "2025-08-03T04:54:27.400Z",
+    "readReferences": [
+      "trommel-logo",
+      "business-plan",
+      "branding-guidelines",
+      "image-guidelines"
+    ]
   }
 }

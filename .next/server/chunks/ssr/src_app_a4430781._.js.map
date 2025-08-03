@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///Users/calvin/Library/Application%20Support/intent-01/intent-workspace/.execution/exec-451d0c0a-61fb-4bb1-9de9-a517305ac2d2/mutate/landing-page/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":[],"mappings":";;;AAAA;;uCACe;IAAE,KAAA,8GAAA,CAAA,UAAG;IAAE,OAAO;IAAK,QAAQ;AAAI","debugId":null}}]
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["file:///Users/calvin/Library/Application%20Support/intent-01/intent-workspace/refs/landing-page/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":[],"mappings":";;;AAAA;;uCACe;IAAE,KAAA,8GAAA,CAAA,UAAG;IAAE,OAAO;IAAK,QAAQ;AAAI","debugId":null}}]
 }
